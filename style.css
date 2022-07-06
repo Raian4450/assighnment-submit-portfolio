@@ -98,6 +98,11 @@ body {
     width: 700px;
     margin-left: 24.5%;
     height: 30px;
+    border: none;
+    border-bottom: 1px solid;
+    font-size: 35px;
+    text-align: center;
+
 }
 
 .input a {
@@ -291,7 +296,7 @@ body {
     padding-left: 800px;
     padding-top: 200px;
     font-size: 35px;
-    margin-left: px%;
+
     margin-top: 150px;
 }
 
